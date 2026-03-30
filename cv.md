@@ -6,7 +6,7 @@
 
 ## Contact Information:
 - **Location:** Poland, Gdansk
-- **Email:** <Viktoryia_Dziuba@epam.com>
+- **Email:** [Viktoryia_Dziuba@epam.com](mailto:Viktoryia_Dziuba@epam.com)
 - **GitHub:** <https://github.com/ViktoryiaDziuba>
 - **Discord:** vicka3395
 
