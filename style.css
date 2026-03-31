@@ -1,4 +1,35 @@
 body {
   font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+pre {
+  background: #eee;
+  padding: 10px;
+  overflow-x: auto;
+}
+
+.footer {
+  text-align: center;
   margin: 20px;
 }
